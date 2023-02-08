@@ -1,27 +1,13 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    background: #ffffff;
-    min-height: 100vh;
-    font-family: 'Montserrat', sans-serif;
-    width: 100%;
-    line-height: 1.5;
+    background: #aceca1;
 }
 
 /* Título e Sub-título A */
 .TSA {
     text-align: center;
   }
-
-.title-A {
-    font-size: 15px;
-    padding-top: 80px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-}
-
 .subtitle-A {
     color: rgb(104, 99, 99);
     padding-top: 0px;
@@ -54,7 +40,7 @@ body {
 
 .img-row{
     width: 800px;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 
 /* Título e Sub-título B */
@@ -99,6 +85,15 @@ body {
     padding-bottom: 50px;
 }  
 
-body {
-    
+.sessao1{
+    display: flex;
+    border;
 }
+
+.legenda{
+    text-align: justify;
+    padding: 30px;
+    width: 650px;    
+}
+
+
